@@ -1,4 +1,3 @@
 # java
-java side project
-This code is a language parser to help out to find broken code in a vendor specific language where i work. 
-Basically finds mismatch in number and types in sub routines.
+This code is a language parser that help me to find broken code in a scripting language used where i work at the moment. 
+
